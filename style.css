@@ -78,6 +78,13 @@ nav ul li a:hover::after{
     color: blue;
 }
 
+.header-text p{
+    font-size: 14px;
+    color: #ababab;
+    margin-top: 12px;
+    width: 40%;
+}
+
 /* About */
 
 #about{
